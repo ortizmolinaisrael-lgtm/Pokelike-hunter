@@ -40,7 +40,11 @@
     panel.innerHTML = `
         <b>🎯 PokéLike Hunter V1.2</b>
 
-        <textarea id="pk_list" style="width:100%;height:80px;"></textarea>
+        <textarea id="pk_list" style="width:100%;height:80px;"
+		placeholder="Ejemplo:
+		Squirtel
+		Bulbasur
+		Charmander"></textarea>
 
         <label>
             <input type="checkbox" id="pk_shiny">
