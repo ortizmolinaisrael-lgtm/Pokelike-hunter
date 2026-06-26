@@ -4,8 +4,7 @@
 // @version		 1.2
 // @description  Auto hunter PokéLike
 // @author       Israfix
-// @match        https://pokelike.com/*
-// @match        https://www.pokelike.com/*
+// @match        *://pokelike.xyz/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/ortizmolinaisrael-lgtm/Pokelike-hunter/main/pokelike-hunter.user.js
 // @downloadURL  https://raw.githubusercontent.com/ortizmolinaisrael-lgtm/Pokelike-hunter/main/pokelike-hunter.user.js
