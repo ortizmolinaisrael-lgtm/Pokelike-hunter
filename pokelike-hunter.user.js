@@ -6,8 +6,8 @@
 // @author       Israfix
 // @match        *://*/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/ortizmolinaisrael-lgtm/pokelike-hunter/main/pokelike-hunter.user.js
-// @downloadURL  https://raw.githubusercontent.com/Tortizmolinaisrael-lgtm/pokelike-hunter/main/pokelike-hunter.user.js
+// @updateURL    https://raw.githubusercontent.com/ortizmolinaisrael-lgtm/Pokelike-hunter/main/pokelike-hunter.user.js
+// @downloadURL  https://raw.githubusercontent.com/ortizmolinaisrael-lgtm/Pokelike-hunter/main/pokelike-hunter.user.js
 // ==/UserScript==
 
 (() => {
