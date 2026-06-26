@@ -38,7 +38,7 @@
 `;
 
     panel.innerHTML = `
-        <b>🎯 PokéLike Hunter v3.2</b>
+        <b>🎯 PokéLike Hunter V1.0</b>
 
         <textarea id="pk_list" style="width:100%;height:80px;"></textarea>
 
