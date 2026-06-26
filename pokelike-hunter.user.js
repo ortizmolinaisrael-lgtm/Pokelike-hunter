@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PokéLike Hunter 1.0
 // @namespace    https://github.com/ortizmolinaisrael-lgtm/pokelike-hunter
-// @version      1.0
+// @version      1.1
 // @description  Auto hunter PokéLike
 // @author       Israfix
 // @match        *://*/*
@@ -38,7 +38,7 @@
 `;
 
     panel.innerHTML = `
-        <b>🎯 PokéLike Hunter V1.0</b>
+        <b>🎯 PokéLike Hunter V1.1</b>
 
         <textarea id="pk_list" style="width:100%;height:80px;"></textarea>
 
