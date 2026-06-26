@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         PokeHunter 4.0
-// @namespace    http://tampermonkey.net/
-// @version      2026-06-26
-// @description  try to take over the world!
+// @name         PokéLike Hunter 1.0
+// @namespace    https://github.com/ortizmolinaisrael-lgtm/pokelike-hunter
+// @version      1.0
+// @description  Auto hunter PokéLike
 // @author       Israfix
-// @match        https://pokelike.xyz/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=pokelike.xyz
+// @match        *://*/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/ortizmolinaisrael-lgtm/pokelike-hunter/main/pokelike-hunter.user.js
+// @downloadURL  https://raw.githubusercontent.com/Tortizmolinaisrael-lgtm/pokelike-hunter/main/pokelike-hunter.user.js
 // ==/UserScript==
 
 (() => {
