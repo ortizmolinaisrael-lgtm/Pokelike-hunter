@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         PokéLike Hunter
 // @namespace    https://github.com/ortizmolinaisrael-lgtm/pokelike-hunter
-// @version		 1.0 → 1.1 → 1.2
+// @version		 1.2
 // @description  Auto hunter PokéLike
 // @author       Israfix
-// @match        *://*/*
+// @match        https://pokelike.com/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/ortizmolinaisrael-lgtm/Pokelike-hunter/main/pokelike-hunter.user.js
 // @downloadURL  https://raw.githubusercontent.com/ortizmolinaisrael-lgtm/Pokelike-hunter/main/pokelike-hunter.user.js
