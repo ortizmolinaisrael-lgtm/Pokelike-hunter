@@ -212,7 +212,7 @@ document.addEventListener("mouseup", () => {
         running = true;
 
         // 🐌 MÁS LENTO para evitar perder el Pokémon
-        interval = setInterval(loop, 3000);
+        interval = setInterval(loop, 3500);
     }
 
     document.getElementById("pk_start").onclick = start;
